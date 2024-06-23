@@ -1,1 +1,1 @@
-This a repository containing all the teaching content developed by the instructor for the course titled Artificial Intelligence. 2024  
+This is a repository containing all the teaching content developed by the instructor for the course titled Artificial Intelligence. This course is from Bachelor of Science Computer Science and Information Technology (BSc CS/IT).    
