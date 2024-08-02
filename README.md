@@ -1,4 +1,4 @@
-Base Snake game
+Base Snake game:
 https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/
 
 Snake Game AI using Machine Learning (to be specific: Deep Q learning variant of Reinforcement Learning which includes the use of neural networks):
